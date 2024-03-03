@@ -138,7 +138,7 @@ export const skills = [
       {
         name: "Google Colab",
         image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+          "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/63c2e4c9c4baad4ce22bf9ef.png?alt=media&token=ea500cdf-998d-4993-a419-e97cf965c9ad",
       },
       {
         name: "Sk Learn Kit",
@@ -152,7 +152,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image2.jpg?alt=media&token=96f88e88-91c6-4e99-ac83-ecc5a7da21b1",
     role: "Machine Learning Intern",
     company: "Konstent",
     date: "Sept 2023 - Nov 2023",
@@ -169,7 +169,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image1.jpg?alt=media&token=f1edf067-755a-4ebb-9e71-6adfee6f1fd9",
     role: "Machine Learning Intern",
     company: "9AI",
     date: "Apr 2023 - Jul 2023",
@@ -186,7 +186,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
+    img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image3.jpeg?alt=media&token=665107d7-aebc-4995-a2e7-6a87cf87a237",
     role: "Lead - Algozenith Club",
     company: "GITS Udaipur",
     date: "Nov 2023 - Present",
@@ -221,7 +221,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image4.png?alt=media&token=52415b7a-dcdf-409c-a7bd-3854617efd6b",
     school: "Geetajali Institute Of Technical Studies, Udaipur",
     date: "Sep 2021 - June 2025",
     grade: "8.4 CGPA",
@@ -230,7 +230,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image5.jpeg?alt=media&token=1934f2b0-2d57-42dc-9ff3-f374a34a10c9",
     school: "MDS Senior Secondary School, Udaipur",
     date: "Apr 2019 - Jun 2021",
     grade: "83.6%",
@@ -239,7 +239,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image5.jpeg?alt=media&token=1934f2b0-2d57-42dc-9ff3-f374a34a10c9",
     school: "MDS Senior Secondary School, Udaipur",
     date: "Apr 2017 - Apr 2019",
     grade: "84%",
