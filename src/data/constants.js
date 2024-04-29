@@ -251,43 +251,72 @@ export const education = [
 export const projects = [
   {
     id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
+    title: "Image to Question Generation Bot",
+    date: "Apr 2023 - Apr 2023",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "Spearheaded the implementation of the prompt-to-summary conversion project, leveraging advanced Natural Language Processing (NLP) techniques and state-of-the-art algorithms, including BERT. This initiative led to a notable 20% increase in user engagement through the delivery of concise 30-word summaries.Orchestrated the development of a language model ChatBot using Langchain for trip planning, achieving a remarkable 25% improvement in accuracy and efficiency. Integrated cutting-edge NLP algorithms for enhanced user interactions",
     image:
       "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["Python", "Keras", "TensorFlow", "BERT", "Langchain", "NLP"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    // webapp: "https://brain-tumor.netlify.app/",
     member: [
       {
         name: "Nishant Arora",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        linkedin: "https://www.linkedin.com/in/nishant-arora-48173a245/",
+        github: "https://github.com/NISHANTARORA29",
       },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+      // {
+      //   name: "Upasana Chaudhuri",
+      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+      //   github: "https://github.com/upasana0710",
+      // },
     ],
   },
   {
     id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
+    title: "Lunar Crater Detection",
+    date: "Sep 2022 - Sep 2022",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "Pioneered an advanced lunar crater detection system utilizing state-of-the-art OpenCV and CNN algorithms, outperforming conventional methods by achieving a remarkable 30% accuracy boost.Employed OpenCV for efficient image processing, leveraging its comprehensive library of computer vision functions to optimize the system’s lunar surface analysis capabilities.",
     image:
       "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["Python", "Keras", "TensorFlow", "CNN", "Open-CV"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    member:[
+      {
+        name: "Nishant Arora",
+        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        linkedin: "https://www.linkedin.com/in/nishant-arora-48173a245/",
+        github: "https://github.com/NISHANTARORA29",
+      },
+    ]
+  },
+  {
+    id: 8,
+    title: "Smart Automated Robot",
+    date: "Feb 2022 - Apr 2022",
+    description:
+      "Engineered an intelligent autonomous robot with Raspberry Pi, seamlessly integrating cutting-edge features such as Speech Recognition and OpenCV for enhanced functionality. Executed extensive simulations and real-world tests, resulting in a staggering 30% reduction in collision incidents, affirming the algorithm’s practical success.",
+    image:
+      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+    tags: ["Python", "Keras", "TensorFlow", "CNN", "Raspberry Pi","Open-CV"],
+    category: "machine learning",
+    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    member:[
+      {
+        name: "Nishant Arora",
+        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        linkedin: "https://www.linkedin.com/in/nishant-arora-48173a245/",
+        github: "https://github.com/NISHANTARORA29",
+      },
+    ]
   },
 ];
 
