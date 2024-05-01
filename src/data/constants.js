@@ -256,7 +256,7 @@ export const projects = [
     description:
       "Spearheaded the implementation of the prompt-to-summary conversion project, leveraging advanced Natural Language Processing (NLP) techniques and state-of-the-art algorithms, including BERT. This initiative led to a notable 20% increase in user engagement through the delivery of concise 30-word summaries.Orchestrated the development of a language model ChatBot using Langchain for trip planning, achieving a remarkable 25% improvement in accuracy and efficiency. Integrated cutting-edge NLP algorithms for enhanced user interactions",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/p1.png?alt=media&token=a6fea5e2-cf8c-4ff2-b38d-786436c6ec26",
     tags: ["Python", "Keras", "TensorFlow", "BERT", "Langchain", "NLP"],
     category: "machine learning",
     // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
@@ -264,7 +264,7 @@ export const projects = [
     member: [
       {
         name: "Nishant Arora",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image.jpg?alt=media&token=c1693ddd-c832-4301-a1b1-a4556b283004",
         linkedin: "https://www.linkedin.com/in/nishant-arora-48173a245/",
         github: "https://github.com/NISHANTARORA29",
       },
@@ -283,7 +283,7 @@ export const projects = [
     description:
       "Pioneered an advanced lunar crater detection system utilizing state-of-the-art OpenCV and CNN algorithms, outperforming conventional methods by achieving a remarkable 30% accuracy boost.Employed OpenCV for efficient image processing, leveraging its comprehensive library of computer vision functions to optimize the system’s lunar surface analysis capabilities.",
     image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+      "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/p2.png?alt=media&token=10f340ce-4a49-43a6-b383-57e503c7afc0",
     tags: ["Python", "Keras", "TensorFlow", "CNN", "Open-CV"],
     category: "machine learning",
     // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
@@ -291,7 +291,7 @@ export const projects = [
     member:[
       {
         name: "Nishant Arora",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image.jpg?alt=media&token=c1693ddd-c832-4301-a1b1-a4556b283004",
         linkedin: "https://www.linkedin.com/in/nishant-arora-48173a245/",
         github: "https://github.com/NISHANTARORA29",
       },
@@ -304,7 +304,7 @@ export const projects = [
     description:
       "Engineered an intelligent autonomous robot with Raspberry Pi, seamlessly integrating cutting-edge features such as Speech Recognition and OpenCV for enhanced functionality. Executed extensive simulations and real-world tests, resulting in a staggering 30% reduction in collision incidents, affirming the algorithm’s practical success.",
     image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+      "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/p3.png?alt=media&token=72b89c02-5262-4570-83d1-ad5bbae6a06e",
     tags: ["Python", "Keras", "TensorFlow", "CNN", "Raspberry Pi","Open-CV"],
     category: "machine learning",
     // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
@@ -312,7 +312,7 @@ export const projects = [
     member:[
       {
         name: "Nishant Arora",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        img: "https://firebasestorage.googleapis.com/v0/b/nishant-portfolio-24400.appspot.com/o/image.jpg?alt=media&token=c1693ddd-c832-4301-a1b1-a4556b283004",
         linkedin: "https://www.linkedin.com/in/nishant-arora-48173a245/",
         github: "https://github.com/NISHANTARORA29",
       },
